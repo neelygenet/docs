@@ -11,7 +11,8 @@ type:
 O Raposas é um indexador colaborativo. Para que ele continue crescendo, os usuários em geral devem submeter seus arquivos para serem indexados pelo Raposas.
 
 As contribuições podem ser feitas de duas formas:
-1) Envio de link de download contendo os arquivos que você deseja indexar; OU
+
+1) Envio de link de download contendo os arquivos que você deseja indexar
 2) Criação de uma pasta no Google Drive para que você mesmo(a) faça o upload dos arquivos.
 
 Todas as contribuições serão indexadas no drive "Contribuições".
