@@ -1,6 +1,6 @@
 ---
 title: Como doar
-order: 2
+order: 1
 type: 
 ---
 

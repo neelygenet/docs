@@ -14,7 +14,8 @@ O **Raposas** é um indexador público e gratuito do Google Drive. Funcionamos d
 
 A documentação pode ajudá-lo a [Doar](/Doar) usando Pix, Cartão de Crédito ou Boleto Bancário, a [Contribuir](/Contribuir) utilizando o Google Drive e também ler as nossas políticas.
 
-<Button type="primary" href="/Começando">Começar</Button>
+<Button type="primary" href="/Doar">Doar</Button>
+<Button type="primary" href="/Contribuir">Contribuir</Button>
 
 <Aside>
 
