@@ -1,7 +1,7 @@
 ---
 title: Como contribuir
 order: 2
-type: 
+type: overview
 ---
 
 <ContentColumn>
