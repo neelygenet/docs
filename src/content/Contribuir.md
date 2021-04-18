@@ -12,8 +12,8 @@ O Raposas é um indexador colaborativo. Para que ele continue crescendo, os usu�
 
 As contribuições podem ser feitas de duas formas:
 
-1) Envio de link de download contendo os arquivos que você deseja indexar
-2) Criação de uma pasta no Google Drive para que você mesmo(a) faça o upload dos arquivos.
+1. Envio de link de download contendo os arquivos que você deseja indexar
+2. Criação de uma pasta no Google Drive para que você mesmo(a) faça o upload dos arquivos.
 
 Todas as contribuições serão indexadas no drive "Contribuições".
 
