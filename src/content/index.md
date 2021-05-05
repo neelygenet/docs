@@ -27,11 +27,11 @@ __Observação:__ Estamos trabalhando arduamente para deixar essa documentação
 
 ## Redes sociais
 
-* Junte-se ao nosso [Discord](https://discord.gg/D7PpmzKJpy) para ajuda (ou somente para conversar)!
-* Entre no nosso canal do [Telegram](https://t.me/raposas_net) para receber os avisos importantes.
+* Entre no nosso canal do [Telegram](https://telegram.raposas.net) para receber os avisos importantes.
+* Você também pode juntar-se ao nosso chat no Telegram [clicando aqui](https://t.me/raposaschat).
 
 ---
 
-Esta documentação é um fork de [Statusflare Docs](https://github.com/statusflare-com/docs), que por sua vez é uma versão modificada do [Cloudflare Docs Engine](https://developers.cloudflare.com/docs-engine/) para funcionar com o [Cloudflare Pages](https://pages.cloudflare.com/).
+Essa é uma versão modificada do [Cloudflare Docs Engine](https://developers.cloudflare.com/docs-engine/) para funcionar com o [Cloudflare Pages](https://pages.cloudflare.com/).
 
 </ContentColumn>
