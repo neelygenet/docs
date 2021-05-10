@@ -19,7 +19,7 @@ A documentação pode ajudá-lo a [Doar](/Doar) usando Pix, Cartão de Crédito 
 
 <Aside>
 
-__Observação:__ Estamos trabalhando arduamente para deixar essa documentação o mais completa possível. No entanto, você pode encontrar um errinho de digitação (ou dois). Se for o caso, sinta-se à vontade de nos notificar!
+__Observação:__ Estamos trabalhando arduamente para deixar essa documentação o mais completa possível. No entanto, você pode encontrar um errinho de digitação (ou dois). Se for o caso, sinta-se à vontade para nos notificar!
 
 </Aside>
 
