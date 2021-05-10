@@ -10,12 +10,8 @@ module.exports = {
       url: "https://raposas.net"
     },
     {
-      title: "Telegram",
-      url: "https://t.me/raposas_net"
-    },
-    {
-      title: "Discord",
-      url: "https://discord.gg/D7PpmzKJpy"
+      title: "Ir para o Telegram",
+      url: "https://telegram.raposas.net"
     },
   ],
   search: {
