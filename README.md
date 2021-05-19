@@ -1,6 +1,6 @@
 # Documentação oficial do [Raposas](https://raposas.net/).
 
-Esse repositório é a documentação do Raposas. Utilizamos uma versão modificada do [Cloudflare Docs Engine](https://github.com/cloudflare/cloudflare-docs-engine/) para funcionar com o Cloudflare Pages, o qual é gratuito. Você pode acessar o fork modificado [clicando aqui](https://github.com/neelygenet/cloudflare-docs-engine).
+Esse repositório é a documentação do Raposas. Este fork é uma versão modificada do [Cloudflare Docs Engine](https://github.com/cloudflare/cloudflare-docs-engine/) para exibir o logo do Raposas no lugar da logo da Cloudflare.
 
 Esta versão foi testada somente com o Cloudflare Pages.
 
