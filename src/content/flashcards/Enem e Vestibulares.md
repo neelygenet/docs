@@ -5,9 +5,15 @@ title: "Enem e Vestibulares"
 
 # Enem e Vestibulares
 
-Você deve ter o Anki instalado para poder executar os arquivos disponíveis nessa página. Consulte o menu ao lado para instruções sobre como instalá-lo.
+<Aside>
 
-## Biologia
+__Observação:__ Você deve ter o Anki instalado para poder executar os arquivos disponíveis nessa página. Consulte o menu ao lado para instruções sobre como instalá-lo.
+
+</Aside>
+
+## Ciências da Natureza e suas Tecnologias
+
+### Biologia
 
 <TableWrap>
 
@@ -40,3 +46,37 @@ Você deve ter o Anki instalado para poder executar os arquivos disponíveis nes
 
 </TableWrap>
 
+### Química
+
+<TableWrap>
+
+| Nome do baralho                             | Link                                                                                            |
+|---------------------------------------------|-------------------------------------------------------------------------------------------------|
+| 1 - Aspectos macroscópicos                  | [Download](https://raposas.net/0:/Arquivos%20Principais/Flashcards/Enem%20e%20Vestibulares/Qu%C3%ADmica/1%20-%20Aspectos%20macrosc%C3%B3picos.apkg) |
+| 2 - Atomística e Eletrosfera                | [Download](https://raposas.net/0:/Arquivos%20Principais/Flashcards/Enem%20e%20Vestibulares/Qu%C3%ADmica/2%20-%20Atom%C3%ADstica%20e%20Eletrosfera.apkg)     |
+| 3 - Classificação e Propriedades periódicas | [Download](https://raposas.net/0:/Arquivos%20Principais/Flashcards/Enem%20e%20Vestibulares/Qu%C3%ADmica/3%20-%20Classifica%C3%A7%C3%A3o%20e%20Propriedades%20peri%C3%B3dicas.apkg) |
+| 4 - Ligações químicas                       | [Download](https://raposas.net/0:/Arquivos%20Principais/Flashcards/Enem%20e%20Vestibulares/Qu%C3%ADmica/4%20-%20Liga%C3%A7%C3%B5es%20qu%C3%ADmicas.apkg)   |
+| 5 - Funções inorgânicas                     | [Download](https://raposas.net/0:/Arquivos%20Principais/Flashcards/Enem%20e%20Vestibulares/Qu%C3%ADmica/5%20-%20Fun%C3%A7%C3%B5es%20inorg%C3%A2nicas.apkg) |
+| 6 - Reações Químicas e Balanceamento        | [Download](https://raposas.net/0:/Arquivos%20Principais/Flashcards/Enem%20e%20Vestibulares/Qu%C3%ADmica/6%20-%20Rea%C3%A7%C3%B5es%20Qu%C3%ADmicas%20e%20Balanceamento.apkg)     |
+| 7 - Termoquímica e Cinética Química         | [Download](https://raposas.net/0:/Arquivos%20Principais/Flashcards/Enem%20e%20Vestibulares/Qu%C3%ADmica/7%20-%20Termoqu%C3%ADmica%20e%20Cin%C3%A9tica%20Qu%C3%ADmica.apkg)       |
+| 8 - Equilíbrio Químico e Iônico             | [Download](https://raposas.net/0:/Arquivos%20Principais/Flashcards/Enem%20e%20Vestibulares/Qu%C3%ADmica/8%20-%20Equil%C3%ADbrio%20Qu%C3%ADmico%20e%20I%C3%B4nico.apkg)   |
+| 9 - Eletroquímica                           | [Download](https://raposas.net/0:/Arquivos%20Principais/Flashcards/Enem%20e%20Vestibulares/Qu%C3%ADmica/9%20-%20Eletroqu%C3%ADmica.apkg)   |
+| 10 - Radioatividade                         | [Download](https://raposas.net/0:/Arquivos%20Principais/Flashcards/Enem%20e%20Vestibulares/Qu%C3%ADmica/10%20-%20Radioatividade.apkg)   |
+| 11 - Química Orgânica I                     | [Download](https://raposas.net/0:/Arquivos%20Principais/Flashcards/Enem%20e%20Vestibulares/Qu%C3%ADmica/11%20-%20Qu%C3%ADmica%20Org%C3%A2nica%20I.apkg)   |
+| 12 - Química Orgânica II                    | [Download](https://raposas.net/0:/Arquivos%20Principais/Flashcards/Enem%20e%20Vestibulares/Qu%C3%ADmica/12%20-%20Qu%C3%ADmica%20Org%C3%A2nica%20II.apkg)   |
+
+</TableWrap>
+
+### Química: Fórmulas
+
+<TableWrap>
+
+| Nome do baralho                             | Link                                                                                            |
+|---------------------------------------------|-------------------------------------------------------------------------------------------------|
+| 1 - Cinética química                  | [Download](https://raposas.net/0:/Arquivos%20Principais/Flashcards/Enem%20e%20Vestibulares/Qu%C3%ADmica:%20F%C3%B3rmulas/1%20-%20Cin%C3%A9tica%20qu%C3%ADmica.apkg) |
+| 2 - Equilíbrio químico                | [Download](https://raposas.net/0:/Arquivos%20Principais/Flashcards/Enem%20e%20Vestibulares/Qu%C3%ADmica:%20F%C3%B3rmulas/2%20-%20Equil%C3%ADbrio%20qu%C3%ADmico.apkg)     |
+| 3 - Estequiometria | [Download](https://raposas.net/0:/Arquivos%20Principais/Flashcards/Enem%20e%20Vestibulares/Qu%C3%ADmica:%20F%C3%B3rmulas/3%20-%20Estequiometria.apkg) |
+| 4 - Radioatividade                       | [Download](https://raposas.net/0:/Arquivos%20Principais/Flashcards/Enem%20e%20Vestibulares/Qu%C3%ADmica:%20F%C3%B3rmulas/4%20-%20Radioatividade.apkg)   |
+| 5 - Soluções                     | [Download](https://raposas.net/0:/Arquivos%20Principais/Flashcards/Enem%20e%20Vestibulares/Qu%C3%ADmica:%20F%C3%B3rmulas/5%20-%20Solu%C3%A7%C3%B5es.apkg) |
+
+</TableWrap>
