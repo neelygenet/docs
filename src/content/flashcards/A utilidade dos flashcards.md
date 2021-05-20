@@ -9,6 +9,13 @@ Já pensou se você pudesse lembrar de tudo que aprende durante os seus estudos?
 
 ![Curva do esquecimento](curva.png)
 
-Se você não entendeu o gráfico, resumindo em poucas palavras, quanto mais tempo se passa a partir do momento que você aprendeu algo, mais chances você tem de esquecer aquilo. A melhor maneira de evitar que isso aconteça é revisando ou “treinando” o que você aprendeu, sempre com intervalos de alguns dias entre uma revisão e outra. É aí que entra o Anki, que é um programa de computador que vai lhe ajudar a revisar/treinar tudo aquilo que você estuda. 
+Se você não entendeu o gráfico, resumindo em poucas palavras, quanto mais tempo se passa a partir do momento que você aprendeu algo, mais chances você tem de esquecer aquilo. A melhor maneira de evitar que isso aconteça é revisando ou “treinando” o que você aprendeu, sempre com intervalos de alguns dias entre uma revisão e outra. É aí que entra o Anki, que é um programa de computador que vai lhe ajudar a revisar/treinar tudo aquilo que você estuda. Veja como se comporta a Curva do esquecimento com as revisões do Anki:
 
-Aqui no Raposas Docs, você encontrará um link no menu ao lado sobre como instalar o Anki no seu computador ou celular.
+![Curva do esquecimento com Anki](curva-com-anki.png)
+
+Interessante e muito elucidativo, não? Se você quiser entender melhor sobre como funciona o Anki, veja o tutorial que escolhemos no YouTube para você ou baixe o Anki diretamente.
+
+<ButtonGroup>
+  <Button type="primary" href="/Como utilizar o Anki">Como utilizar o Anki</Button>
+  <Button type="secondary" href="/Baixar e instalar o Anki">Baixar e instalar o Anki</Button>
+</ButtonGroup>
