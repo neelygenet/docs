@@ -16,6 +16,6 @@ Se você não entendeu o gráfico, resumindo em poucas palavras, quanto mais tem
 Interessante e muito elucidativo, não? Se você quiser entender melhor sobre como funciona o Anki, veja o tutorial que escolhemos no YouTube para você ou baixe o Anki diretamente.
 
 <ButtonGroup>
-  <Button type="primary" href="/Como utilizar o Anki">Como utilizar o Anki</Button>
-  <Button type="secondary" href="/Baixar e instalar o Anki">Baixar e instalar o Anki</Button>
+  <Button type="primary" href="/flashcards/Como utilizar o Anki">Como utilizar o Anki</Button>
+  <Button type="secondary" href="/flashcards/Baixar e instalar o Anki">Baixar e instalar o Anki</Button>
 </ButtonGroup>
