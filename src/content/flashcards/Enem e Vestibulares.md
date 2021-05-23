@@ -73,10 +73,10 @@ __Observação:__ Você deve ter o Anki instalado para poder executar os arquivo
 
 | Nome do baralho                             | Link                                                                                            |
 |---------------------------------------------|-------------------------------------------------------------------------------------------------|
-| 1 - Cinética química                  | [Download](https://raposas.net/0:/Arquivos%20Principais/Flashcards/Enem%20e%20Vestibulares/Qu%C3%ADmica:%20F%C3%B3rmulas/1%20-%20Cin%C3%A9tica%20qu%C3%ADmica.apkg) |
-| 2 - Equilíbrio químico                | [Download](https://raposas.net/0:/Arquivos%20Principais/Flashcards/Enem%20e%20Vestibulares/Qu%C3%ADmica:%20F%C3%B3rmulas/2%20-%20Equil%C3%ADbrio%20qu%C3%ADmico.apkg)     |
+| 1 - Cinética química | [Download](https://raposas.net/0:/Arquivos%20Principais/Flashcards/Enem%20e%20Vestibulares/Qu%C3%ADmica:%20F%C3%B3rmulas/1%20-%20Cin%C3%A9tica%20qu%C3%ADmica.apkg) |
+| 2 - Equilíbrio químico | [Download](https://raposas.net/0:/Arquivos%20Principais/Flashcards/Enem%20e%20Vestibulares/Qu%C3%ADmica:%20F%C3%B3rmulas/2%20-%20Equil%C3%ADbrio%20qu%C3%ADmico.apkg) |
 | 3 - Estequiometria | [Download](https://raposas.net/0:/Arquivos%20Principais/Flashcards/Enem%20e%20Vestibulares/Qu%C3%ADmica:%20F%C3%B3rmulas/3%20-%20Estequiometria.apkg) |
-| 4 - Radioatividade                       | [Download](https://raposas.net/0:/Arquivos%20Principais/Flashcards/Enem%20e%20Vestibulares/Qu%C3%ADmica:%20F%C3%B3rmulas/4%20-%20Radioatividade.apkg)   |
-| 5 - Soluções                     | [Download](https://raposas.net/0:/Arquivos%20Principais/Flashcards/Enem%20e%20Vestibulares/Qu%C3%ADmica:%20F%C3%B3rmulas/5%20-%20Solu%C3%A7%C3%B5es.apkg) |
+| 4 - Radioatividade | [Download](https://raposas.net/0:/Arquivos%20Principais/Flashcards/Enem%20e%20Vestibulares/Qu%C3%ADmica:%20F%C3%B3rmulas/4%20-%20Radioatividade.apkg) |
+| 5 - Soluções | [Download](https://raposas.net/0:/Arquivos%20Principais/Flashcards/Enem%20e%20Vestibulares/Qu%C3%ADmica:%20F%C3%B3rmulas/5%20-%20Solu%C3%A7%C3%B5es.apkg) |
 
 </TableWrap>
