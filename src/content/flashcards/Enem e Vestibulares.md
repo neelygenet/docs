@@ -128,3 +128,46 @@ __Observação:__ Você deve ter o Anki instalado para poder executar os arquivo
 | 5 - Soluções | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Qu%C3%ADmica:%20F%C3%B3rmulas/5%20-%20Solu%C3%A7%C3%B5es.apkg) |
 
 </TableWrap>
+
+## Linguagens e suas Tecnologias
+
+### Língua Portuguesa
+
+<TableWrap>
+
+| Nome do baralho      | Link                                                                                            |
+|----------------------|-------------------------------------------------------------------------------------------------|
+| 1 - Variação Textual, Linguística e Funções da Linguagem | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/L%C3%ADngua%20Portuguesa/1%20-%20Varia%C3%A7%C3%A3o%20Textual%2C%20Lingu%C3%ADstica%20e%20Fun%C3%A7%C3%B5es%20da%20Linguagem.apkg) |
+| 2 - Intertextualidade e Figuras de Linguagem | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/L%C3%ADngua%20Portuguesa/2%20-%20Intertextualidade%20e%20Figuras%20de%20Linguagem.apkg) |
+| 3 - Classes Gramaticais - Verbos, Pronomes e Adjetivos | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/L%C3%ADngua%20Portuguesa/3%20-%20Classes%20Gramaticais%20-%20Verbos%2C%20Pronomes%20e%20Adjetivos.apkg) |
+| 4 - Classes Gramaticais - Substantivos, Artigos, Numerais, Preposições, Conjunções, Interjeições e Advérbios | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/L%C3%ADngua%20Portuguesa/4%20-%20Classes%20Gramaticais%20-%20Substantivos%2C%20Artigos%2C%20Numerais%2C%20Preposi%C3%A7%C3%B5es%2C%20Conjun%C3%A7%C3%B5es%2C%20Interjei%C3%A7%C3%B5es%20e%20Adv%C3%A9rbios.apkg) |
+| 5 - Concordância Verbal e Nominal | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/L%C3%ADngua%20Portuguesa/5%20-%20Concord%C3%A2ncia%20Verbal%20e%20Nominal.apkg) |
+
+</TableWrap>
+
+## Literatura
+
+<TableWrap>
+
+| Nome do baralho      | Link                                                                                            |
+|----------------------|-------------------------------------------------------------------------------------------------|
+| 1 - Trovadorismo, Quinhentismo e Barroco | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Literatura/1%20-%20Trovadorismo%2C%20Quinhentismo%20e%20Barroco.apkg) |
+| 2 - Arcadismo e Romantismo | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Literatura/2%20-%20Arcadismo%20e%20Romantismo.apkg) |
+| 3 - Realismo e Naturalismo | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Literatura/3%20-%20Realismo%20e%20Naturalismo.apkg) |
+| 4 - Parnasianismo, Simbolismo e Pré-Modernismo | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Literatura/4%20-%20Parnasianismo%2C%20Simbolismo%20e%20Pr%C3%A9-Modernismo.apkg) |
+| 5 - Modernismo | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Literatura/5%20-%20Modernismo.apkg) |
+| 6 - Impressionismo e Vanguardas Europeias | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Literatura/6%20-%20Impressionismo%20e%20Vanguardas%20Europeias.apkg) |
+| 7 - Tropicália | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Literatura/7%20-%20Tropic%C3%A1lia.apkg) |
+| 8 - Produções da Literatura Contemporânea | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Literatura/8%20-%20Produ%C3%A7%C3%B5es%20da%20Literatura%20Contempor%C3%A2nea.apkg) |
+
+</TableWrap>
+
+## Redação
+
+<TableWrap>
+
+| Nome do baralho      | Link                                                                                            |
+|----------------------|-------------------------------------------------------------------------------------------------|
+| 1 - Citações e Teorias | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Reda%C3%A7%C3%A3o/1%20-%20Cita%C3%A7%C3%B5es%20e%20Teorias.apkg) |
+
+</TableWrap>
