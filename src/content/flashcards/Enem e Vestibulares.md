@@ -145,7 +145,7 @@ __Observação:__ Você deve ter o Anki instalado para poder executar os arquivo
 
 </TableWrap>
 
-## Literatura
+### Literatura
 
 <TableWrap>
 
@@ -162,12 +162,43 @@ __Observação:__ Você deve ter o Anki instalado para poder executar os arquivo
 
 </TableWrap>
 
-## Redação
+### Redação
 
 <TableWrap>
 
 | Nome do baralho      | Link                                                                                            |
 |----------------------|-------------------------------------------------------------------------------------------------|
 | 1 - Citações e Teorias | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Reda%C3%A7%C3%A3o/1%20-%20Cita%C3%A7%C3%B5es%20e%20Teorias.apkg) |
+
+</TableWrap>
+
+## Ciências Humanas e suas Tecnologias
+
+### História
+
+<TableWrap>
+
+| Nome do baralho      | Link                                                                                            |
+|----------------------|-------------------------------------------------------------------------------------------------|
+| 1 - Mundo Antigo ao Feudalismo | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Hist%C3%B3ria/1%20-%20Mundo%20Antigo%20ao%20Feudalismo.apkg) |
+| 2 - Renascimento e Reforma Protestante | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Hist%C3%B3ria/2%20-%20Renascimento%20e%20Reforma%20Protestante.apkg) |
+| 3 - Absolutismo, Mercantilismo e Expansão Marítima | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Hist%C3%B3ria/3%20-%20Absolutismo%2C%20Mercantilismo%20e%20Expans%C3%A3o%20Mar%C3%ADtima.apkg) |
+| 4 - Revolução Inglesa | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Hist%C3%B3ria/4%20-%20Revolu%C3%A7%C3%A3o%20Inglesa.apkg) |
+| 5 - Iluminismo e Independência dos EUA | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Hist%C3%B3ria/5%20-%20Iluminismo%20e%20Independ%C3%AAncia%20dos%20EUA.apkg) |
+| 6 - Revolução Francesa | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Hist%C3%B3ria/6%20-%20Revolu%C3%A7%C3%A3o%20Francesa.apkg) |
+| 7 - América Colonial | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Hist%C3%B3ria/7%20-%20Am%C3%A9rica%20Colonial.apkg) |
+| 8 - Mineração e Movimentos Separatistas | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Hist%C3%B3ria/8%20-%20Minera%C3%A7%C3%A3o%20e%20Movimentos%20Separatistas.apkg) |
+| 9 - O Processo de Independência | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Hist%C3%B3ria/9%20-%20O%20Processo%20de%20Independ%C3%AAncia.apkg) |
+| 10 - Primeiro Reinado e Período Regencial | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Hist%C3%B3ria/10%20-%20Primeiro%20Reinado%20e%20Per%C3%ADodo%20Regencial.apkg) |
+| 11 - Segundo Reinado | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Hist%C3%B3ria/11%20-%20Segundo%20Reinado.apkg) |
+| 12 - República Velha | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Hist%C3%B3ria/12%20-%20Rep%C3%BAblica%20Velha.apkg) |
+| 13 - A Era Vargas | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Hist%C3%B3ria/13%20-%20A%20Era%20Vargas.apkg) |
+| 14 - Primeira Guerra Mundial e Revolução Russa | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Hist%C3%B3ria/14%20-%20Primeira%20Guerra%20Mundial%20e%20Revolu%C3%A7%C3%A3o%20Russa.apkg) |
+| 15 - Regimes Totalitários e Segunda Guerra Mundial | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Hist%C3%B3ria/15%20-%20Regimes%20Totalit%C3%A1rios%20e%20Segunda%20Guerra%20Mundial.apkg) |
+| 16 - Mundo Pós Guerra | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Hist%C3%B3ria/16%20-%20Mundo%20P%C3%B3s%20Guerra.apkg) |
+| 17 - República Populista | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Hist%C3%B3ria/17%20-%20Rep%C3%BAblica%20Populista.apkg) |
+| 18 - Período Militar | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Hist%C3%B3ria/18%20-%20Per%C3%ADodo%20Militar.apkg) |
+| 19 - Nova República | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Hist%C3%B3ria/19%20-%20Nova%20Rep%C3%BAblica.apkg) |
+
 
 </TableWrap>
