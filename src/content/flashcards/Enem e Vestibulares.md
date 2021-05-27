@@ -202,3 +202,25 @@ __Observação:__ Você deve ter o Anki instalado para poder executar os arquivo
 
 
 </TableWrap>
+
+### Geografia
+
+<TableWrap>
+
+| Nome do baralho      | Link                                                                                            |
+|----------------------|-------------------------------------------------------------------------------------------------|
+| 1 - Capitalismo e Processo de Industrialização | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Geografia/1%20-%20Capitalismo%20e%20Processo%20de%20Industrializa%C3%A7%C3%A3o.apkg) |
+| 2 - Processos Migratórios e de Urbanização | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Geografia/2%20-%20Processos%20Migrat%C3%B3rios%20e%20de%20Urbaniza%C3%A7%C3%A3o.apkg) |
+| 3 - Globalização e Geopolítica | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Geografia/3%20-%20Globaliza%C3%A7%C3%A3o%20e%20Geopol%C3%ADtica.apkg) |
+| 4 - O Meio Ambiente Brasileiro - Aspectos Introdutórios e Relevo | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Geografia/4%20-%20O%20Meio%20Ambiente%20Brasileiro%20-%20Aspectos%20Introdut%C3%B3rios%20e%20Relevo.apkg) |
+| 5 - O Meio Ambiente Brasileiro - Vegetação e Clima | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Geografia/5%20-%20O%20Meio%20Ambiente%20Brasileiro%20-%20Vegeta%C3%A7%C3%A3o%20e%20Clima.apkg) |
+| 6 - Meio Ambiente do Mundo | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Geografia/6%20-%20Meio%20Ambiente%20do%20Mundo.apkg) |
+| 7 - Cartografia | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Geografia/7%20-%20Cartografia.apkg) |
+| 8 - Estrutura Terrestre - Litosfera | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Geografia/8%20-%20Estrutura%20Terrestre%20-%20Litosfera.apkg) |
+| 9 - Estrutura Terrestre - Hidrosfera | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Geografia/9%20-%20Estrutura%20Terrestre%20-%20Hidrosfera.apkg) |
+| 10 - Estrutura Terrestre - Atmosfera | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Geografia/10%20-%20Estrutura%20Terrestre%20-%20Atmosfera.apkg) |
+| 11 - Problemas Ambientais | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Geografia/11%20-%20Problemas%20Ambientais.apkg) |
+| 12 - Regiões Brasileiras - Centro-Oeste e Nordeste | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Geografia/12%20-%20Regi%C3%B5es%20Brasileiras%20-%20Centro-Oeste%20e%20Nordeste.apkg) |
+| 13 - Regiões Brasileiras - Norte, Sudeste e Sul | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Geografia/13%20-%20Regi%C3%B5es%20Brasileiras%20-%20Norte%2C%20Sudeste%20e%20Sul.apkg) |
+
+</TableWrap>
