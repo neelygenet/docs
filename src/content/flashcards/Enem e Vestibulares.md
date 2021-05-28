@@ -224,3 +224,32 @@ __Observação:__ Você deve ter o Anki instalado para poder executar os arquivo
 | 13 - Regiões Brasileiras - Norte, Sudeste e Sul | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Geografia/13%20-%20Regi%C3%B5es%20Brasileiras%20-%20Norte%2C%20Sudeste%20e%20Sul.apkg) |
 
 </TableWrap>
+
+### Filosofia
+
+<TableWrap>
+
+| Nome do baralho      | Link                                                                                            |
+|----------------------|-------------------------------------------------------------------------------------------------|
+| 1 - Filosofia Pré-Socrática e Clássica | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Filosofia/1%20-%20Filosofia%20Pr%C3%A9-Socr%C3%A1tica%20e%20Cl%C3%A1ssica.apkg) |
+| 2 - Teoria do Conhecimento e Filosofia Helenística | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Filosofia/2%20-%20Teoria%20do%20Conhecimento%20e%20Filosofia%20Helen%C3%ADstica.apkg) |
+| 3 - Filosofia Medieval | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Filosofia/3%20-%20Filosofia%20Medieval.apkg) |
+| 4 - Filosofia Moderna | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Filosofia/4%20-%20Filosofia%20Moderna.apkg) |
+| 5 - Iluminismo | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Filosofia/5%20-%20Iluminismo.apkg) |
+| 6 - Filosofia Contemporânea | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Filosofia/6%20-%20Filosofia%20Contempor%C3%A2nea.apkg) |
+
+</TableWrap>
+
+### Sociologia
+
+<TableWrap>
+
+| Nome do baralho      | Link                                                                                            |
+|----------------------|-------------------------------------------------------------------------------------------------|
+| 1 - Teoria Sociológica | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Sociologia/1%20-%20Teoria%20Sociol%C3%B3gica.apkg) |
+| 2 - Cultura e Instituições Sociais | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Sociologia/2%20-%20Cultura%20e%20Institui%C3%A7%C3%B5es%20Sociais.apkg) |
+| 3 - Relações Sociais no Capitalismo | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Sociologia/3%20-%20Rela%C3%A7%C3%B5es%20Sociais%20no%20Capitalismo.apkg) |
+| 4 - Política | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Sociologia/4%20-%20Pol%C3%ADtica.apkg) |
+| 5 - Sociedade Brasileira e Movimentos Sociais | [Download](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Sociologia/5%20-%20Sociedade%20Brasileira%20e%20Movimentos%20Sociais.apkg) |
+
+</TableWrap>
