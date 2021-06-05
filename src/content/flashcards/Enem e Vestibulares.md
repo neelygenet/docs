@@ -253,3 +253,43 @@ __Observação:__ Você deve ter o Anki instalado para poder executar os arquivo
 | [5 - Sociedade Brasileira e Movimentos Sociais](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Sociologia/5%20-%20Sociedade%20Brasileira%20e%20Movimentos%20Sociais.apkg) |
 
 </TableWrap>
+
+## Matemática e suas Tecnologias
+
+### Matemática
+
+<TableWrap>
+
+| Nome do baralho      |
+|----------------------|
+| [1 - Conjuntos e Funções de 1º e 2º grau](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Matem%C3%A1tica/1%20-%20Conjuntos%20e%20Fun%C3%A7%C3%B5es%20de%201%C2%BA%20e%202%C2%BA%20grau.apkg) |
+| [2 - Progressão Aritmética e Geométrica](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Matem%C3%A1tica/2%20-%20Progress%C3%A3o%20Aritm%C3%A9tica%20e%20Geom%C3%A9trica.apkg) |
+| [3 - Análise Combinatória, Probabilidade e Proporcionalidade](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Matem%C3%A1tica/3%20-%20An%C3%A1lise%20Combinat%C3%B3ria%2C%20Probabilidade%20e%20Proporcionalidade.apkg) |
+| [4 - Porcentagem e Matemática Financeira](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Matem%C3%A1tica/4%20-%20Porcentagem%20e%20Matem%C3%A1tica%20Financeira.apkg) |
+| [5 - Gráficos e Estatística](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Matem%C3%A1tica/5%20-%20Gr%C3%A1ficos%20e%20Estat%C3%ADstica.apkg) |
+| [6 - Logaritmo](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Matem%C3%A1tica/6%20-%20Logaritmo.apkg) |
+| [7 - Geometria Plana e Analítica](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Matem%C3%A1tica/7%20-%20Geometria%20Plana%20e%20Anal%C3%ADtica.apkg) |
+| [8 - Geometria Espacial](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Matem%C3%A1tica/8%20-%20Geometria%20Espacial.apkg) |
+| [9 - Trigonometria](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Matem%C3%A1tica/9%20-%20Trigonometria.apkg) |
+
+</TableWrap>
+
+### Matemática: Fórmulas
+
+<TableWrap>
+
+| Nome do baralho      |
+|----------------------|
+| [1 - Conjuntos e Funções de 1º e 2º grau](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Matem%C3%A1tica/F%C3%B3rmulas/1%20-%20Conjuntos%20e%20Fun%C3%A7%C3%B5es%20de%201%C2%BA%20e%202%C2%BA%20grau.apkg) |
+| [2 - Progressão Aritmética e Geométrica](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Matem%C3%A1tica/F%C3%B3rmulas/2%20-%20Progress%C3%A3o%20Aritm%C3%A9tica%20e%20Geom%C3%A9trica.apkg) |
+| [3 - Análise Combinatória, Probabilidade e Proporcionalidade](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Matem%C3%A1tica/F%C3%B3rmulas/3%20-%20An%C3%A1lise%20Combinat%C3%B3ria%2C%20Probabilidade%20e%20Proporcionalidade.apkg) |
+| [4 - Porcentagem e Matemática Financeira](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Matem%C3%A1tica/F%C3%B3rmulas/4%20-%20Porcentagem%20e%20Matem%C3%A1tica%20Financeira.apkg) |
+| [5 - Estatística](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Matem%C3%A1tica/F%C3%B3rmulas/5%20-%20Estat%C3%ADstica.apkg) |
+| [6 - Logaritmos](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Matem%C3%A1tica/F%C3%B3rmulas/6%20-%20Logaritmos.apkg) |
+| [7 - Geometria Plana](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Matem%C3%A1tica/F%C3%B3rmulas/7%20-%20Geometria%20Plana.apkg) |
+| [8 - Geometria Analítica](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Matem%C3%A1tica/F%C3%B3rmulas/8%20-%20Geometria%20Anal%C3%ADtica.apkg) |
+| [9 - Geometria Espacial](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Matem%C3%A1tica/F%C3%B3rmulas/9%20-%20Geometria%20Espacial.apkg) |
+| [10 - Trigonometria](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Matem%C3%A1tica/F%C3%B3rmulas/10%20-%20Trigonometria.apkg) |
+| [11 - Matrizes](https://flashcards-download.raposas.net/Enem%20e%20Vestibulares/Matem%C3%A1tica/F%C3%B3rmulas/11%20-%20Matrizes.apkg) |
+
+</TableWrap>
