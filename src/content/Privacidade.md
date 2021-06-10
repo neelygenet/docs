@@ -1,6 +1,6 @@
 ---
 title: Política de Privacidade
-order: 5
+order: 4
 type: overview
 ---
 

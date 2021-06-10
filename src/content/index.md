@@ -12,11 +12,10 @@ type: overview
 
 O **Raposas** é um indexador público e gratuito do Google Drive. Funcionamos de uma forma muito parecida com o Google: o Google ativamente busca por novos sites para incluí-los em sua base de dados e, então, disponibilizá-los em uma interface amplamente utilizada em todo o mundo. No Raposas fazemos algo semelhante, mas ao invés de termos um sistema de robôs automáticos que custa bilhões de dólares, a própria comunidade envia pastas e arquivos do Google Drive para serem indexados pelo Raposas.
 
-A documentação pode ajudá-lo a [Doar](/Doar) usando Pix, Cartão de Crédito ou Boleto Bancário, a [Contribuir](/Contribuir) utilizando o Google Drive e também ler as nossas políticas.
+A documentação pode ajudá-lo a [Contribuir](/Contribuir) utilizando o Google Drive e também ler as nossas políticas.
 
 <ButtonGroup>
-  <Button type="primary" href="/Doar">Doar</Button>
-  <Button type="secondary" href="/Contribuir">Contribuir</Button>
+  <Button type="primary" href="/Contribuir">Contribuir</Button>
 </ButtonGroup>
 
 <Aside>
